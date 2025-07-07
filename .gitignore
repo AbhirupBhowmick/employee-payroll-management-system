@@ -1,0 +1,20 @@
+# Ignore Java build files
+/backend/target/
+*.class
+*.log
+
+# IDE settings
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+
+# Node modules (if you add JS packages later)
+node_modules/
+
+
+
